@@ -14,11 +14,11 @@ Table of Content:
 1. Installation
 2. How to Use
 
-1. Installation
+Installation
   a. Open 'inventory.py' with IDE (e.g. Visual Studio Code,PyCharm,etc), please ensure file I/O has been configured correcly
   b. Run the script
 
-2. How to Use
+How to Use
     a.Select action by entering the correct command
     ![image](https://user-images.githubusercontent.com/124445919/216818033-f9ab6d5c-83a5-4b2e-8e0f-5508ed22b823.png)  
     b. Follow the instruction on screen accordingly if necessary
